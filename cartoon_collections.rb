@@ -16,14 +16,14 @@ def find_the_cheese(array)# code an argument here
   # the array below is here to help
   cheese_types = ["cheddar", "gouda", "camembert"]
   i = 0 
-  while array.length < i 
-  {
+  while (array.length < i )
+  
   if (cheese_types.include?(array[i]))
     puts array[i]
   end
   i +=1 
   puts array[i]
-  }
+end
 end
 
 snacks = ["crackers", "gouda", "thyme"]
