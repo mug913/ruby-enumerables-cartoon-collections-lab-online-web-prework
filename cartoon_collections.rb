@@ -21,7 +21,7 @@ def find_the_cheese(array)# code an argument here
     puts array[i]
   end
   i +=1 
-  puts "end"
+  puts array[i]
 end
 end
 
