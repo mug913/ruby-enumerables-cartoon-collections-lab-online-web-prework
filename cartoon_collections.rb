@@ -23,7 +23,7 @@ def find_the_cheese(array)# code an argument here
   end
   i +=1 
   puts array[i]
-end
+  }
 end
 
 snacks = ["crackers", "gouda", "thyme"]
