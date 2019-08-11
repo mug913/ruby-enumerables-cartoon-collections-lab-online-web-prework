@@ -19,6 +19,7 @@ def find_the_cheese(array)# code an argument here
   while(i < array.length)
     if (cheese_types.include?(array[i]))
       puts array[i]
+      break
     end
     i +=1 
   end
