@@ -24,5 +24,5 @@ def find_the_cheese(array)# code an argument here
   end
 end
 
-snacks = ["crackers", "gouda", "thyme"]
-find_the_cheese(snacks)
+soup = ["tomato soup", "cheddar", "oyster crackers", "gouda"]
+find_the_cheese(soup)
